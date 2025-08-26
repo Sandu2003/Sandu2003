@@ -19,7 +19,7 @@
 
 <h3 align="center" style="color: #4A90E2;">🌱 Currently Learning</h3>
 <p align="center" style="color: #FFFFFF;">
-  MongoDB 🍃
+  Python
 </p>
 
 <h3 align="center" style="color: #4A90E2;">📫 How to reach me</h3>
